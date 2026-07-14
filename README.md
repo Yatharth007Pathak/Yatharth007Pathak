@@ -1,25 +1,22 @@
-<h1 align="center">
-  Hi 👋, I'm Yatharth Pathak
-</h1>
+<div align="center">
 
-<h3 align="center">
-Artificial Intelligence • Machine Learning • Full Stack Developer
-</h3>
+# 👋 Hi, I'm Yatharth Pathak
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Python+Enthusiast;Always+Learning+New+Technologies" />
-</p>
+### AI & Machine Learning Developer • Full Stack Developer • Python Enthusiast
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4F8DFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Full+Stack+Development;Building+Intelligent+Solutions;Always+Learning+🚀" alt="Typing SVG" />
+
+<br>
+
 <a href="https://yatharth007-portfolio-css.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐 Portfolio-111827?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/yatharth-pathak/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/yatharth-pathak">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yatharth22pathak@gmmail.com">
+<a href="mailto:yatharth22pathak@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -27,120 +24,219 @@ Artificial Intelligence • Machine Learning • Full Stack Developer
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+## 💫 About Me
 
 ```python
 class YatharthPathak:
 
     def __init__(self):
 
-        self.location = "India 🇮🇳"
+        self.role = "AI & Machine Learning Developer"
 
-        self.education = "B.Tech CSE (AI)"
+        self.education = "B.Tech Computer Science (Artificial Intelligence)"
 
-        self.university = "CSJMU Kanpur"
+        self.university = "CSJMU, Kanpur"
 
-        self.current_focus = [
+        self.languages = [
+            "Python",
+            "Java",
+            "JavaScript",
+            "SQL"
+        ]
+
+        self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
-            "Full Stack Development"
+            "Full Stack Development",
+            "Data Science"
         ]
 
-        self.learning = [
-            "Deep Learning",
-            "Cloud Computing",
-            "System Design"
-        ]
+        self.current_goal = "Building AI solutions for real-world problems"
 
-        self.ask_me_about = [
-            "Python",
-            "Flask",
-            "TensorFlow",
-            "Scikit-learn",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "MySQL"
-        ]
+        self.fun_fact = "I love turning ideas into intelligent software."
+```
 
-        self.goal = "Build impactful AI solutions that solve real-world problems."
+---
 
+## 🚀 Professional Summary
 
-# ⚡ Tech Arsenal
+I'm a final-year B.Tech Computer Science (Artificial Intelligence) student passionate about developing intelligent applications using AI, Machine Learning, and modern web technologies.
 
-## 🤖 Artificial Intelligence & Machine Learning
+I enjoy building practical software that solves real-world problems—from AI-powered safety systems to predictive analytics and full-stack web applications. I'm continuously learning, experimenting, and improving my engineering skills.
 
-<p align="left">
+---
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+## 💻 Tech Stack
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+</p>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask" />
+</p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 AI-Based Women Safety Analytics System
+
+### Features
+
+- Emotion Detection
+- Audio Distress Detection
+- GPS Tracking
+- Crime Heatmap
+- SOS Alert System
+- Flask Backend
+- Machine Learning Models
+
+**Tech Stack**
+
+Python • Flask • TensorFlow • OpenCV • MySQL
+
+</td>
+
+<td width="50%">
+
+## 📊 Customer Churn Prediction
+
+### Features
+
+- Churn Prediction
+- Data Visualization
+- Customer Analytics
+- Machine Learning
+- Model Deployment
+
+**Tech Stack**
+
+Python • Scikit-Learn • Streamlit • Pandas
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🌐 Portfolio Website
+
+A responsive personal portfolio showcasing my projects, skills, and experience.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • Netlify
+
+</td>
+
+<td width="50%">
+
+## 📚 Machine Learning Projects
+
+A collection of machine learning implementations including classification, regression, clustering, ensemble learning, and predictive analytics.
+
+**Tech Stack**
+
+Python • NumPy • Pandas • Scikit-Learn
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Yatharth007Pathak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yatharth007Pathak&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatharth007Pathak&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yatharth007Pathak&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Yatharth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yatharth007Pathak&theme=tokyo-night&hide_border=true)](https://github.com/Yatharth007Pathak)
+
+---
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://yatharth007-portfolio-css.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yatharth-pathak">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yatharth22pathak@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://x.com/7YatharthPathak">
+<img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
+</a>
 
 </p>
 
+---
 
-## 🌐 Web Development
+<div align="center">
 
-<p align="left">
+![](https://komarev.com/ghpvc/?username=Yatharth007Pathak&style=for-the-badge&color=blue)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+### ⭐ *"Building intelligent software that solves real-world problems."*
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</p>
-
-
-## 🗄️ Database
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
-
-
-## 🛠️ Tools
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
-
-</p>
-
-
-# 🚀 Engineering Focus
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🌐 Full Stack Development
-- 🐍 Python Development
-- 📊 Data Science
-- ☁️ Cloud Deployment
-- 📈 Problem Solving
-- 🚀 Open Source Learning
+</div>
