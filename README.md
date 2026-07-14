@@ -69,7 +69,6 @@ class YatharthPathak:
 
         self.goal = "Build impactful AI solutions that solve real-world problems."
 
----
 
 # ⚡ Tech Arsenal
 
@@ -91,7 +90,6 @@ class YatharthPathak:
 
 </p>
 
----
 
 ## 🌐 Web Development
 
@@ -109,7 +107,6 @@ class YatharthPathak:
 
 </p>
 
----
 
 ## 🗄️ Database
 
@@ -119,7 +116,6 @@ class YatharthPathak:
 
 </p>
 
----
 
 ## 🛠️ Tools
 
@@ -137,7 +133,6 @@ class YatharthPathak:
 
 </p>
 
----
 
 # 🚀 Engineering Focus
 
